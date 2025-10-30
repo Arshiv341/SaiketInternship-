@@ -1,0 +1,4 @@
+I use comments in my code because they help me during future revisions. 
+Since I’m constantly learning new technologies, I often shift my focus to different languages or frameworks, 
+which can make older code harder to recall. Adding comments ensures that I can easily understand my past work when revisiting it. 
+Moreover, it also helps others who read my code to understand the logic and purpose behind each part more easily.
